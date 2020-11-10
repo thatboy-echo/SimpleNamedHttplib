@@ -58,3 +58,6 @@ String Version();
 String LastCompileTime();
 ```
 
+来自测试工程的示例
+
+![示例](https://i.loli.net/2020/11/10/SYBuPfMe697oyWX.png)

@@ -18,8 +18,6 @@ namespace SimpTestCS
         [DllImport(DllPath)]
         static extern int ClientCount();
         [DllImport(DllPath)]
-
-
         static extern void CreateServer(string server_name, string host, int port);
         [DllImport(DllPath)]
         static extern void ServerListen(string server_name);

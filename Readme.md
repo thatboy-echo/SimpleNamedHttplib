@@ -23,7 +23,7 @@ ServerGet("ser", "/", (string request, string method, StringBuilder response, St
 });
 ```
 
-`C++`可以直接引入头文件，函数定义如下
+`C++`可以直接引入头文件，函数声明如下
 
 ```cpp
 using String = const char*;

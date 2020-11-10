@@ -1,6 +1,8 @@
 # Simple Named Httplib
 
-Windows平台Http库，服务器和客户端均通过名字来索引，并支持自定义Get Post方法，可以添加回调/委托。
+基于[cpp-httplib](https://github.com/yhirose/cpp-httplib)Windows平台Http库，服务器和客户端均通过名字来索引，并支持自定义Get Post方法，可以添加回调/委托。
+
+
 
 以`C#`引入创建服务器函数为例:
 
